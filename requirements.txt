@@ -1,0 +1,8 @@
+cd ~/titanic-ml
+echo "pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+jupyter" > requirements.txt
